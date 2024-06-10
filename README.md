@@ -11,7 +11,7 @@ You can see all menu items by clicking ALL button, and items in particular categ
 ### Create new order
 1. Click "Show menu" button on the left
 2. Click "New" button to create new order
-![](readme_images/order.jpg)
+
 3. Select adding items by clicking from the menu list on the right side.
 4. Enter quantity and click "Add" button on the left side.(If quantity is emputy, one item will be added)
 5. You can delete ordered item from the order detail by clicking "Delete" button  
